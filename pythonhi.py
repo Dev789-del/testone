@@ -1,3 +1,3 @@
 print("Hello USTH")
-a = int(input())
-print(a)
+print("My name is Name")
+print("Today is dd/mm/yy")
